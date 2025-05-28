@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/seuusuario/PortHawk.svg)](https://github.com/seuusuario/PortHawk/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/migliatti/PortHawk.svg)](https://github.com/migliatti/PortHawk/stargazers)
 
 > **PortHawk** é um scanner TCP rápido e educacional desenvolvido em Python para descobrir portas abertas e identificar serviços em execução. Ideal para aprender sobre networking, sockets e segurança de redes.
 
